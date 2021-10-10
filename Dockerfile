@@ -1,7 +1,7 @@
-FROM Zedthon/ZED_USERBOT:alpine
+FROM DARKTHON/DARK_USERBOT:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Zedthon/ZED_USERBOT.git /root/userbot
+RUN git clone https://github.com/DARKENHAKC/zedpack/blob/master/Dockerfile.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
