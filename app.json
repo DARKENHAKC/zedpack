@@ -1,22 +1,22 @@
 {
-  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝗘𝗗",
-  "description": "⿻ سورس زد ثـون ™ افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────𝙎𝙊𝙐𝙍𝘾𝞝_𝙕𝞝𝘿 : @ZedThon",
-  "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝐃𝐀𝐑𝐊",
+  "description": "⿻ سورس زد ثـون ™ افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────𝐒𝐎𝐔𝐑𝐒𝐄 𝐃𝐀𝐑𝐊 : ",
+  "logo": "https://telegra.ph/file/d4da10ba3801a689d8a49.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Zedthon/ZED_USERBOT/",
+  "repository": "https://github.com/DARKENHAKC/zedpack/blob/master/Dockerfile/DARK_USERBOT/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "ادخل اسم حسابك التيلي هنا",
+      "description": "ضع اسم حسابك ع التلي",
       "value": ""
     },
     "APP_ID": {
-      "description": "اب ايدي",
+      "description": " https://my.telegram.org/ ايبي ايدي -رابط الاستخراج ",
       "value": ""
     },
     "API_HASH": {
@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "كود التيرمكس - تروح ع حافظـة حسـابك التيلـي وتنسـخ الكـود الكبير",
+      "description": "كود التريمكس الخاص بك",
       "value": ""
     },
     "ENV": {
@@ -32,11 +32,11 @@
       "value": "ANYTHING"
     },
     "TG_BOT_USERNAME": {
-      "description": "معرف البوت",
+      "description": "يوز البوت",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": " توكن البوت - يجب وضع البوت انلاين مود من اعدادات بوت فاذر",
+      "description": "توكن بوتك-منبوت فاذر",
       "value": ""
     },
     "COMMAND_HAND_LER": {
@@ -46,7 +46,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "رابـط صورة تليكـراف - لتغيـرها ",
-      "value": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+      "value": "https://telegra.ph/file/d4da10ba3801a689d8a49.jpg",
       "required": false
     },
     "MAX_FLOOD_IN_P_M_s": {
@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "zed ",
+      "value": "https://github.com/DARKENHAKC/zedpack/blob/master/Dockerfile",
       "required": false
     }
   },
